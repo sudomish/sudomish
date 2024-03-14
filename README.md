@@ -4,8 +4,8 @@
 - 🌱 I'm learning more about database engineering, analytics, data science and UNIX systems
 - ⛵ Sometimes I'm on a boat
 - 💬 Find me on LinkedIn!
--
--
+  
+  
 [![My Skills](https://skillicons.dev/icons?i=linux,vscode,py,anaconda,r,sqlite)](https://skillicons.dev)
 
 <!--
