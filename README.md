@@ -1,10 +1,12 @@
 ###
-- 👋 Hi, I'm @sudomish (Michelle)
+- 👋 Hi, I'm @sudomish (Michelle, she/her)
 - 💻 I'm currently a research scientist with a data obsession
 - 🌱 I'm learning more about database engineering, analytics, data science and UNIX systems
 - ⛵ Sometimes I'm on a boat
 - 💬 Find me on LinkedIn!
-
+-
+-
+[![My Skills](https://skillicons.dev/icons?i=linux,vscode,py,anaconda,r,sqlite)](https://skillicons.dev)
 
 <!--
 **sudomish/sudomish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
