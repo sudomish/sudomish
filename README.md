@@ -1,4 +1,10 @@
-### Hi there 👋
+###
+👋 Hi, I'm @sudomish (Michelle)
+💻 I'm currently a research scientist with a data obsession
+🌱 I'm learning more about database engineering, analytics, data science and UNIX systems
+⛵ Sometimes I'm on a boat
+💬 Find me on LinkedIn!
+
 
 <!--
 **sudomish/sudomish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
