@@ -1,9 +1,9 @@
 ###
-👋 Hi, I'm @sudomish (Michelle)
-💻 I'm currently a research scientist with a data obsession
-🌱 I'm learning more about database engineering, analytics, data science and UNIX systems
-⛵ Sometimes I'm on a boat
-💬 Find me on LinkedIn!
+- 👋 Hi, I'm @sudomish (Michelle)
+- 💻 I'm currently a research scientist with a data obsession
+- 🌱 I'm learning more about database engineering, analytics, data science and UNIX systems
+- ⛵ Sometimes I'm on a boat
+- 💬 Find me on LinkedIn!
 
 
 <!--
