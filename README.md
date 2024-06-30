@@ -1,6 +1,6 @@
 ###
 - 👋 Hi, I'm @sudomish (Michelle, she/her)
-- 💻 I'm currently a research scientist with a data obsession
+- 💻 I'm currently a process dev scientist with a data obsession
 - 🌱 I'm learning more about database engineering, analytics, data science and UNIX systems
 - ⛵ Sometimes I'm on a boat
 - 💬 Find me on LinkedIn!
