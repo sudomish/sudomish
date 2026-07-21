@@ -1,7 +1,7 @@
 ###
 - 👋 Hi, I'm @sudomish (Michelle)
-- 💻 I'm currently a process dev scientist with a data obsession
-- 🌱 I'm learning more about database engineering, analytics, data science and UNIX systems
+- 💻 I'm currently a process dev scientist who loves data
+- 🌱 I'm learning more about UNIX systems, arduino dev, creative coding and embedded synth programming
 - ⛵ Sometimes I'm on a boat
 - 💬 Find me on LinkedIn!
   
