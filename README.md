@@ -2,7 +2,7 @@
 - 👋 Hi, I'm @sudomish (Michelle)
 - 💻 I'm currently a process dev scientist who loves data
 - 🌱 I'm learning more about UNIX systems, arduino dev, creative coding and embedded synth programming
-- ⛵ Sometimes I'm on a boat
+- 🍄 You might find me in nature too
 - 💬 Find me on LinkedIn!
   
   
